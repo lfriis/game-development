@@ -1,7 +1,7 @@
 # GameDev
 Practice with Unity3D and Learning C#
- - [x] Practice with Scripts and Unity Fundamentals
  - [x] Roll A Ball Game
+ - [x] A1 - Practice with Scripts and Unity Fundamentals
  - [x] A2 - 3D Platform Game
  
  Group Projects:
