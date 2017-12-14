@@ -7,4 +7,4 @@ Practice with Unity3D and Learning C#
  Group Projects:
  - [x] A4 - Simulation of "Raid"
  - [x] A5 - Bubble Popper Game & Painting Game
- - [ ] 2.5D Platform Game (In progress)
+ - [x] Fitality - 2.5D Platform Game
